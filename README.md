@@ -5,7 +5,9 @@ Credit Risk Analysis Report
 Purpose of analysis
 
 The purpose of the analysis is to build a logistic regression model to predict the borrowers' creditworthiness. And then determine the performance by using the confusion matrix and analysing the classification report. 
+
 •	The independent variables include： loan size, interest rate, borrow income, debt to income, number of accounts, derogatory marks and total debts.
+
 •	The dependent variable is loan status (0 is healthy, 1 is unhealthy.)
 
 
