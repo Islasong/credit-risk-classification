@@ -1,10 +1,12 @@
 # credit-risk-classification
 Siyuan Zhu - bootcamp - challenge 20
+
 Background
 
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 Before You Begin
+
 Create a new repository for this project called credit-risk-classification. Do not add this homework to an existing repository.
 
 Clone the new repository to your computer.
@@ -16,6 +18,7 @@ Inside the "Credit_Risk" folder, add the credit_risk_classification.ipynb and le
 Push your changes to GitHub.
 
 Files
+
 Download the following files to help you get started:
 
 Module 20 Challenge filesLinks to an external site.
